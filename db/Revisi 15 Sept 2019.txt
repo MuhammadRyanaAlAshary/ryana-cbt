@@ -1,0 +1,21 @@
+Ryana Note
+
+Laporan admin
+
+1. Data mahasiswa lulus : Not Yet
+2. Data hasil ujian mahasiswa : Done
+3. Data seluruh mahasiswa : Done
+4. Data mahasiswa all : Done
+
+
+Laporan mahasiswa
+
+1.data hasil dari ujian yang udah di lakukan : Not Yet
+2.data informasi lulus atau tidaknya magasiswa tersebut kang : Done
+
+
+Fixing
+1. Integrated jurusan di form input calon mahasiswa : Done
+2. Integrated type soal : Done
+3. Jika Mahasiswa sudah ujian, tidak bisa ujian ulang : Done
+4. Waktu 1 Menit : Done
